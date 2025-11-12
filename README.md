@@ -56,8 +56,10 @@ A success message will appear, and a new draft post will be created with that ID
 
 ### 📸 截图 (Screenshots)
 设置页面
+
 [![设置页面](https://s21.ax1x.com/2025/11/12/pZCwWeH.webp)](https://imgchr.com/i/pZCwWeH)
 草稿效果
+
 [![草稿效果](https://s21.ax1x.com/2025/10/01/pVTuXP1.jpg)](https://imgse.com/i/pVTuXP1)
 ### 📄 授权 (License)
 This plugin is licensed under the GPL v2 or later.
