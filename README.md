@@ -55,12 +55,9 @@ A success message will appear, and a new draft post will be created with that ID
 操作成功后，系统会提示你。你可以在 文章 > 所有文章 的“草稿”分类中找到这篇新文章。
 
 ### 📸 截图 (Screenshots)
-插件的后台操作界面截图
-
-后台操作界面的图片
-
-A clean and clear interface showing the list of available post IDs and the "Create Draft" buttons.
-[![设置页面](https://s21.ax1x.com/2025/10/01/pVTuj8x.jpg)](https://imgse.com/i/pVTuj8x)
+设置页面
+[![设置页面](https://s21.ax1x.com/2025/11/12/pZCwWeH.webp)](https://imgse.com/i/pVTuj8x)
+草稿效果
 [![草稿效果](https://s21.ax1x.com/2025/10/01/pVTuXP1.jpg)](https://imgse.com/i/pVTuXP1)
 ### 📄 授权 (License)
 This plugin is licensed under the GPL v2 or later.
