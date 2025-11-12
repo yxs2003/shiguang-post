@@ -61,6 +61,21 @@ A success message will appear, and a new draft post will be created with that ID
 草稿效果
 
 [![草稿效果](https://s21.ax1x.com/2025/10/01/pVTuXP1.jpg)](https://imgse.com/i/pVTuXP1)
+
+### 🍃 付费版本 (Pro)
+
+1.重构UI为玻璃圆角拟态+多TAB设置菜单
+2.可以单独选择某一个id创建草稿+多选id批量创建草稿
+3.扩展数据库清理范围
+
+插件价格6.6，购买联系邮箱2977443056@qq.com
+
+您的赞助是我更新的最大动力！
+
+[![插件首页](https://s21.ax1x.com/2025/11/12/pZCw7Sf.jpg)](https://imgchr.com/i/pZCw7Sf)
+[![数据清理](https://s21.ax1x.com/2025/11/12/pZCwofP.jpg)](https://imgchr.com/i/pZCwofP)
+[![文章ID页](https://s21.ax1x.com/2025/11/12/pZCwHl8.jpg)](https://imgchr.com/i/pZCwHl8)
+
 ### 📄 授权 (License)
 This plugin is licensed under the GPL v2 or later.
 本插件基于 GPL v2 或更高版本许可证开源。
